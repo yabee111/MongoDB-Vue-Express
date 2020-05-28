@@ -1,0 +1,98 @@
+[   
+    {
+        "companyID": "A",
+        "commentID": "AED155",
+        "title": "網頁爛！",
+        "content": "以戰斧牛排而言，今天吃的是九分到十分熟中間，不至於乾澀，但牛肉煮到九分熟，有點太過。義大利麵也有類似狀況，煮到太軟了，整體而言，不是特別合我口味，若沒吃過戰斧豬排或牛排，可以嘗試看看",
+        "relateDep": "資訊部",
+        "condition": "未處理",
+        "score": 4.5,
+        "reply": false,
+        "resource": [
+            {"url": "https://www.tripadvisor.com.tw/"},
+            {"resourceName": ""}
+        ],
+        "tags":["資訊","服務"],
+        "time": "2020/09/19"
+    },
+    {
+        "companyID": "A",
+        "commentID": "AED156",
+        "title": "好吃好吃....",
+        "content": "今天吃的豬肉好吃，不至於乾澀，但牛肉煮到九分熟，有點太過。義大利麵也有類似狀況，煮到太軟了，整體而言，不是特別合我口味，若沒吃過戰斧豬排或牛排，可以嘗試看看",
+        "relateDep": "餐飲部",
+        "condition": "未處理",
+        "score": 4.3,
+        "reply": false,
+        "resource": [
+            {"url": "https://tw.hotels.com/"},
+            {"resourceName": ""}    
+        ],
+        "tags":["餐飲","服務"],
+        "time": "2020/08/07"
+    },
+    {
+        "companyID": "A",
+        "commentID": "AED157",
+        "title": "喔耶...",
+        "content": "枕頭軟ＱＱＱＱＱ",
+        "relateDep": "客房部",
+        "condition": "處理中",
+        "score": 4.0,
+        "reply": false,
+        "resource": [
+            {"url": "https://www.agoda.com/"},
+            {"resourceName": ""}
+        ],
+        "tags":["設施","服務"],
+        "time": "2020/05/10"
+    },
+    {
+        "companyID": "A",
+        "commentID": "AED157",
+        "title": "你給的愛哀哀哀哀",
+        "content": "伍佰的愛情的盡頭喔！",
+        "relateDep": "設施部",
+        "condition": "處理中",
+        "score": 5,
+        "reply": true,
+        "resource": [
+            {"url": "https://www.booking.com/"},
+            {"resourceName": ""}
+        ],
+        "tags":["設施","服務"],
+        "time": "2020/06/18"
+    },
+    {
+        "companyID": "A",
+        "commentID": "AED157",
+        "title": "早餐豐盛．．．",
+        "content": "西式早餐很好吃喔，蛋蛋跟熱狗都有!!",
+        "relateDep": "餐飲部",
+        "condition": "未處理",
+        "score": 4.2,
+        "reply": false,
+        "resource": [
+            {"url": "https://www.agoda.com/"},
+            {"resourceName": ""}
+        ],
+        "tags":["餐飲","服務"],
+        "time": "2020/05/10"
+    },
+    {
+        "companyID": "A",
+        "commentID": "AED157",
+        "title": "我不知道",
+        "content": "我不知道要打什麼了",
+        "relateDep": "阿災部",
+        "condition": "已完成",
+        "score": 4.0,
+        "reply": true,
+        "resource": [
+            {"url": "https://www.agoda.com/"},
+            {"resourceName": ""}
+        ],
+        "tags":["服務"],
+        "time": "2020/05/10"
+    }
+]

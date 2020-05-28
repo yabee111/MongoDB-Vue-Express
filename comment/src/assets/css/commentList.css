@@ -1,0 +1,85 @@
+.el-table{
+    width: 85%;
+    margin-top: 20px;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+table.vgt-table td{
+    vertical-align: middle;
+}
+.vgt-table thead th{
+    padding-right: 0px;
+}
+tr:hover td{
+    background-color: #CCCCCC;
+}
+.el-input{
+    height: 30px;
+    width: 150px;
+}
+.el-input__inner{
+    height: 30px;
+    font-size: 12px;
+}
+.el-input__icon{
+    line-height: 35px;
+}
+.none{
+    background-color: #00808C;
+    color: white;
+    padding: 7px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 0px #adadad;
+}
+.ing{
+    background-color: rgba(0, 128, 140, 0.274);
+    text-shadow: 0.5px 0.5px #adadad;
+    color: white;
+    padding: 7px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 0px #adadad;
+}
+.done{
+    background-color: rgb(190, 190, 190);
+    color: rgb(218, 0, 0);
+    padding: 7px;
+    border-radius: 3px;
+}
+
+.none,.ing{
+    -webkit-transition: all 0.1s;
+	-moz-transition: all 0.1s;
+	transition: all 0.1s;
+}
+.none:active{
+    -webkit-box-shadow: 2px 2px 0px #adadad;
+    -moz-box-shadow: 2px 2px 0px #adadad;
+    box-shadow: 1px 1px 0px #adadad;
+    position:relative;
+    top:1px;
+    left:1px;
+}
+
+.ing:active{
+    -webkit-box-shadow: 2px 2px 0px #adadad;
+    -moz-box-shadow: 2px 2px 0px #adadad;
+    box-shadow: 1px 1px 0px #adadad;
+    position:relative;
+    top:1px;
+    left:1px;
+}
+/* .buttonDiv input{
+    display:inline-block;
+	width:100px;
+	color:#FFF;
+	text-decoration:none;
+	border-radius:3px;
+	border:solid 1px rgb(0, 0, 0);
+	background:#030303;
+	text-align:center;
+	padding:7px;
+	margin-right: 20px;
+	-webkit-transition: all 0.1s;
+	-moz-transition: all 0.1s;
+	transition: all 0.1s;
+} */
